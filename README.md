@@ -1,0 +1,2 @@
+# Latihan
+Mengulang pehaman git
